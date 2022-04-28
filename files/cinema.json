@@ -1,0 +1,106 @@
+[
+    {
+        "id": "0",
+        "poster": "inglourious-basterds.webp",
+        "characteristics": {
+            "title": "Бесславные ублюдки",
+            "description": "Американский спецотряд жестоко расправляется с нацистами. Пародия на военные фильмы от Квентина Тарантино",
+            "genre": "Экшн",
+            "genreClass": "--action",
+            "year": "2009",
+            "country": "США",
+            "trailer": "https://www.youtube.com/watch?v=KgjEC2Wxy3Q"
+        }
+    },
+    {
+        "id": "1",
+        "poster": "absolutely-anything.jpg",
+        "characteristics": {
+            "title": "Все могу",
+            "description": "Пришельцы наделяют учителя могуществом, чтобы он спас Землю. Саймон Пегг и актеры «Монти Пайтон» в комедии",
+            "genre": "Комедия",
+            "genreClass": "--comedy",
+            "year": "2015",
+            "country": "США",
+            "trailer": "https://www.youtube.com/watch?v=K8nPUnVl0Xg"
+        }
+    },
+    {
+        "id": "2",
+        "poster": "dad.jpg",
+        "characteristics": {
+            "title": "Батя",
+            "description": "По дороге на юбилей отца Максим вспоминает свое постсоветское детство. Комедия с Владимиром Вдовиченковым",
+            "genre": "Комедия",
+            "genreClass": "--comedy",
+            "year": "2020",
+            "country": "Россия",
+            "trailer": "https://www.youtube.com/watch?v=IsxPnCBdMOQ"
+        }
+    },
+    {
+        "id": "3",
+        "poster": "ahs.jpg",
+        "characteristics": {
+            "title": "Американская история ужасов",
+            "description": "От призраков и ведьм до серийных убийц. Хоррор-антология Райана Мёрфи, которая стала современной классикой",
+            "genre": "Ужасы",
+            "genreClass": "--horror",
+            "year": "2011",
+            "country": "США",
+            "trailer": "https://www.youtube.com/watch?v=yj40n8fto0U"
+        }
+    },
+    {
+        "id": "4",
+        "poster": "it.jpg",
+        "characteristics": {
+            "title": "Оно",
+            "description": "Злобный клоун терроризирует подростков. Экранизация романа Стивена Кинга с жутким Биллом Скарсгардом",
+            "genre": "Ужасы",
+            "genreClass": "--horror",
+            "year": "2017",
+            "country": "США",
+            "trailer": "https://www.youtube.com/watch?v=IisU-JHj_fU"
+        }
+    },
+    {
+        "id": "5",
+        "poster": "red-notice.jpg",
+        "characteristics": {
+            "title": "Красное уведомление",
+            "description": "Агент ФБР преследует самого разыскиваемого в мире вора картин, но становится его невольным соучастником в попытке поймать мошенника, который всегда на шаг впереди.",
+            "genre": "Экшн",
+            "genreClass": "--action",
+            "year": "2021",
+            "country": "США",
+            "trailer": "https://www.youtube.com/watch?v=APVf9ri1gTA"
+        }
+    },
+    {
+        "id": "6",
+        "poster": "hp2022.jpeg",
+        "characteristics": {
+            "title": "Гарри Поттер 20 лет спустя: Возвращение в Хогвартс",
+            "description": "Актеры великой франшизы встречаются в школе магии. Архивные кадры, редкие интервью и ностальгическая атмосфера",
+            "genre": "Документальные",
+            "genreClass": "--documentary",
+            "year": "2022",
+            "country": "Великобритания",
+            "trailer": "https://www.youtube.com/watch?v=5sgjNCHZ5C8"
+        }
+    },
+    {
+        "id": "7",
+        "poster": "romanov.webp",
+        "characteristics": {
+            "title": "Романовы",
+            "description": "История дома Романовых, поданная динамично и зрелищно. Докудрама о 300-летнем правлении яркой царской династии",
+            "genre": "Документальные",
+            "genreClass": "--documentary",
+            "year": "2013",
+            "country": "Россия",
+            "trailer": "https://www.youtube.com/watch?v=LsHqlVhawew"
+        }
+    }
+]
